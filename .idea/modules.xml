@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileAccessHelper/FileAccessHelper.iml" filepath="$PROJECT_DIR$/FileAccessHelper/FileAccessHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpaceShower/SpaceShower.iml" filepath="$PROJECT_DIR$/SpaceShower/SpaceShower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpaceShowerProject.iml" filepath="$PROJECT_DIR$/SpaceShowerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaceshower.iml" filepath="$PROJECT_DIR$/spaceshower.iml" />
+    </modules>
+  </component>
+</project>
+
